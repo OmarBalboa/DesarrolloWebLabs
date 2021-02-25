@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(163, 170, 180);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 25px;
+}
+
+main{
+    background-color: rgb(104, 170, 190);
+}
+
+#photo{
+    float: left;
+    margin: 0px 15px 0px 15px;
+    width: 145px;
+    height: 145px;
+}
+
+h2{
+    font-family: initial;
+}
+
+.description{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.descriptiondate{
+    font-weight: bold;
+    font-style: italic;
+}
+
+#planguageslist{
+    font-style: italic;
+}
+
+.pl{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.toptext {
+    text-align: center;
+}
+
+#languageslist{
+    font-style: italic;
+}
+
+#skillslist{
+    font-style: italic;
+}
+
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: small;
+}
